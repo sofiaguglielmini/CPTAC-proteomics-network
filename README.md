@@ -3,8 +3,6 @@
 This repository contains a reproducible network-based analysis of CPTAC proteomics data in lung squamous cell carcinoma (LSCC), with the goal of comparing protein network structure between normal and tumor samples.
 
 The analysis focuses on conditional dependence networks inferred via sparse Gaussian graphical models, with emphasis on network topology, hub stability and pathway enrichment.
-
----
   
 ## Data
   
@@ -17,8 +15,6 @@ The analysis focuses on conditional dependence networks inferred via sparse Gaus
   - Scaling and centering
 
 Raw CPTAC data are not included due to size and access constraints. The repository operates on processed data objects.
-
----
   
 ## Methods
   
@@ -30,7 +26,6 @@ Raw CPTAC data are not included due to size and access constraints. The reposito
 - Comparison of node centrality and edges 
 - Pathway analysis of non-small cell lung cancer pathway genes
 
----
 
 ## Repository structure
 
