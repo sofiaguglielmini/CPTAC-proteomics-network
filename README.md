@@ -45,12 +45,12 @@ quarto render report.qmd
 ```
 ├── report.qmd          # Quarto report
 ├── src/
-  │   ├── data.py       # Data loading and preprocessing
-  │   ├── network.py    # Network estimation and metrics
-  │   └── visualize.py        # Plotting and visualization
+│   ├── data.py       # Data loading and preprocessing
+│   ├── network.py    # Network estimation and metrics
+│   └── visualize.py        # Plotting and visualization
 ├── run_analysis.py     # End-to-end analysis script
 ├── results/
-  │   ├── figures/        # Generated figures
-  │   └── tables/         # Summary tables
-  └── README.md
+│   ├── figures/        # Generated figures
+│   └── tables/         # Summary tables
+└── README.md
 ```
