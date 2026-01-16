@@ -1,0 +1,4 @@
+*.ipynb linguist-detectable=false
+*.html linguist-detectable=false
+docs/** linguist-detectable=false
+_site/** linguist-detectable=false
