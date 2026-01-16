@@ -1,4 +1,7 @@
-*.ipynb linguist-detectable=false
+# Ignore rendered outputs
 *.html linguist-detectable=false
-docs/** linguist-detectable=false
 _site/** linguist-detectable=false
+docs/** linguist-detectable=false
+
+# Ignore Quarto source for language stats
+*.qmd linguist-detectable=false
