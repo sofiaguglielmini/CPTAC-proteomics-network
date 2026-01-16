@@ -6,7 +6,7 @@ The analysis focuses on conditional dependence networks inferred via sparse Gaus
   
 ## Data
   
-- **Source**: CPTAC Pan-Cancer proteomics (LSCC cohort)
+- **Source**: CPTAC Pan-Cancer proteomics, LSCC cohort (https://proteomic.datacommons.cancer.gov/pdc/cptac-pancancer)
 - **Level**: Gene-aggregated protein abundance
 - **Filtering**: Genes in KEGG cancer pathways 
 - **Preprocessing**: 
